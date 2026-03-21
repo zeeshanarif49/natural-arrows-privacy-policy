@@ -1,1 +1,121 @@
-# natural-arrows-privacy-policy
+  Effective date: March 20, 2026
+
+  Natural Arrows respects your privacy. This Privacy Policy explains what
+  information may be collected when you use the app, how it is used, and who it
+  may be shared with.
+
+  1. Information We Collect
+  Natural Arrows does not require account creation and does not directly collect
+  personal information such as your name, email address, or phone number inside
+  the app.
+
+  However, the app uses third-party services that may collect certain device and
+  usage information, including:
+
+  - device identifiers
+  - advertising identifiers
+  - app interactions and gameplay events
+  - crash data and diagnostics
+  - approximate device and network information
+  - ad performance and reward activity
+
+  2. Third-Party Services
+  Natural Arrows uses the following third-party services:
+
+  - Google AdMob, to display ads and rewarded ads
+  - Firebase Analytics, to measure app usage and gameplay events
+  - Firebase Crashlytics, to collect crash reports and diagnostics
+  - Firebase Cloud Messaging or local notification-related services, if enabled,
+    to support reminders and notifications
+
+  These services may collect and process data according to their own privacy
+  policies.
+
+  Google may use device identifiers and similar technologies to provide
+  analytics, ad measurement, fraud prevention, and advertising services.
+
+  3. How Information Is Used
+  Information collected through these services may be used to:
+
+  - operate and improve the game
+  - understand gameplay behavior and level progression
+  - fix bugs and crashes
+  - measure ad performance
+  - provide rewarded ads and ad-related functionality
+  - send reminders or notifications if you enable them
+
+  4. Advertising
+  Natural Arrows contains ads, including rewarded ads, banner ads, and
+  interstitial ads.
+
+  Ad providers may collect device information and identifiers to serve ads,
+  limit fraud, and measure ad effectiveness. In some regions, consent may be
+  requested before personalized ads are shown, where required by law.
+
+  5. Analytics and Diagnostics
+  The app logs gameplay-related analytics events such as:
+
+  - level start
+  - level complete
+  - level fail
+  - rewarded ad usage
+  - hint and continue usage
+  - notification-related actions
+
+  This information is used only to understand app performance and improve
+  gameplay.
+
+  6. Notifications
+  If you allow notifications, Natural Arrows may send local reminders to
+  encourage you to return to the game. You can disable notifications at any time
+  in your device settings.
+
+  7. Data Sharing
+  We do not sell your personal information.
+
+  Data may be shared with service providers only as necessary to operate the
+  app, including Google AdMob and Firebase services.
+
+  8. Children’s Privacy
+  Natural Arrows is not intended for children under the age required by
+  applicable law for consent to data processing in their region. If you believe
+  a child has provided personal information through the app, please contact us
+  so appropriate action can be taken.
+
+  9. Your Choices
+  You can:
+
+  - disable notifications in your device settings
+  - reset or limit ad identifiers through your device settings
+  - stop using the app at any time
+
+  Depending on your region, you may also see consent choices related to
+  advertising and data usage.
+
+  10. Security
+  We take reasonable steps to protect the app and the data processed through our
+  service providers, but no method of transmission or storage is completely
+  secure.
+
+  11. Changes to This Policy
+  This Privacy Policy may be updated from time to time. Any updates will be
+  reflected by updating the effective date above.
+
+  12. Contact
+  If you have questions about this Privacy Policy, contact:
+  your-email@example.com
+
+  Replace that email with your real support email before publishing.
+
+  Useful source references:
+
+  - Firebase Android data disclosure:
+    https://firebase.google.com/docs/android/play-data-disclosure
+  - Firebase Debug/events docs:
+    https://firebase.google.com/docs/analytics/debugview
+  - AdMob privacy/consent guidance:
+    https://support.google.com/admob/answer/10114014
+  - Google requires a privacy policy and disclosure of identifiers/data use:
+
+  https://firebase.google.com/terms/analytics/GoogleAnalyticsForFirebase-PROPERTIES_TermsOfService_2019-04-17.pdf
+
