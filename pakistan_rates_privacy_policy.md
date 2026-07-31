@@ -4,8 +4,9 @@
 **Application:** Pakistan Rates (`pk.rates.app`)
 
 Pakistan Rates displays daily petrol, diesel, gold and silver rates for Pakistan
-and can send a notification when a rate changes. There is no account, no sign-in,
-no advertising, and no sale of data.
+and can send a notification when a rate changes. There is no account and no
+sign-in, and we do not sell your data. The app does show banner advertising
+supplied by Google AdMob — see section 6.
 
 ---
 
