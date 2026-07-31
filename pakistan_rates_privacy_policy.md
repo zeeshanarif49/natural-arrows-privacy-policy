@@ -1,6 +1,6 @@
 # Pakistan Rates — Privacy Policy
 
-**Effective date:** 31 July 2026
+**Effective date:** 31 July 2026 (updated: advertising)
 **Application:** Pakistan Rates (`pk.rates.app`)
 
 Pakistan Rates displays daily petrol, diesel, gold and silver rates for Pakistan
@@ -22,6 +22,7 @@ photos, files, microphone or camera data. There is no registration or login.
 | **Messaging registration token** — an anonymous, app-specific device identifier | To deliver price alerts. The app subscribes to broadcast topics (fuel / metals, in English or Urdu). It is not linked to your identity, and we cannot use it to contact you individually. | Firebase Cloud Messaging |
 | **Crash diagnostics** — stack trace, device model, OS version, app version, time of crash | Only sent if the app crashes, so faults can be fixed. Contains no personal information. | Firebase Crashlytics |
 | **IP address and request time** | Recorded in ordinary server logs when the app fetches rates over HTTPS. Used solely to operate and secure the service; not used to profile you. | Supabase (rates database) |
+| **Advertising ID**, plus coarse device and ad-interaction data | To display banner advertising inside the app and to measure it. You can reset or delete this identifier at any time in Android Settings → Privacy → Ads. | Google AdMob |
 
 ## 3. Information stored only on your device
 
@@ -42,15 +43,26 @@ This never leaves your device and is removed when you uninstall the app.
 ## 5. Third-party services
 
 - **Google Firebase** (Cloud Messaging, Crashlytics) — https://firebase.google.com/support/privacy
+- **Google AdMob** (in-app advertising) — https://support.google.com/admob/answer/6128543
 - **Supabase** (rates database and API) — https://supabase.com/privacy
 
 These providers process data on our behalf under their own privacy terms.
 
-## 6. No advertising, no analytics, no data sale
+## 6. Advertising
 
-The app contains no advertising SDKs and does not read the Android advertising
-identifier. It performs no behavioural or marketing analytics. We do not sell,
-rent or share personal data with third parties for advertising purposes.
+The app displays banner advertising supplied by Google AdMob, shown below the
+rate list. Google may use the Android advertising identifier and limited
+device and ad-interaction data to select and measure those ads; see Google's
+policy linked above for the detail.
+
+Ads appear **only inside the app**. We never place advertising in notifications
+— the alerts you receive contain rate information only.
+
+We perform no behavioural or marketing analytics of our own, and we do not
+sell or rent your personal data.
+
+**Your controls:** reset or delete your advertising ID, or opt out of ad
+personalisation entirely, in Android Settings → Privacy → Ads.
 
 ## 7. Children
 
@@ -66,6 +78,8 @@ kept only briefly for operational and security purposes.
 
 ## 9. Your choices
 
+- Reset or delete your advertising ID, or turn off ad personalisation, in
+  Android Settings → Privacy → Ads.
 - Turn notifications off at any time in Android Settings → Apps → Pakistan Rates
   → Notifications.
 - Uninstalling the app deletes all locally stored data and ends messaging
