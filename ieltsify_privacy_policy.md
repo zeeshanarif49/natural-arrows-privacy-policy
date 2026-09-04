@@ -1,10 +1,10 @@
-# BandUp – Privacy Policy
+# IELTSify with AI – Privacy Policy
 
 **Effective date:** 26 August 2026
-**App:** BandUp (Android package `com.bbs.bandup`)
-**Developer contact:** arifmoneeb02@gmail.com
+**App:** IELTSify with AI (Android package `com.bbs.bandup`)
+**Developer contact:** contact@ieltsify.com
 
-BandUp is an IELTS practice app. This policy explains what information the app collects, how it is used, and the choices you have.
+IELTSify with AI is an IELTS practice app. This policy explains what information the app collects, how it is used, and the choices you have.
 
 ## 1. Information we collect
 
@@ -15,7 +15,7 @@ BandUp is an IELTS practice app. This policy explains what information the app c
 
 ## 2. Microphone and speech
 
-BandUp asks for microphone access only when you start a Speaking test or an AI Tutor session. **Speech recognition runs entirely on your device**; your voice audio is not uploaded or stored. Only the resulting text transcript is sent to our servers so the AI examiner can score it.
+IELTSify with AI asks for microphone access only when you start a Speaking test or an AI Tutor session. **Speech recognition runs entirely on your device**; your voice audio is not uploaded or stored. Only the resulting text transcript is sent to our servers so the AI examiner can score it.
 
 ## 3. How we use information
 
@@ -37,11 +37,11 @@ All data is transmitted over encrypted (HTTPS) connections.
 
 ## 5. Data retention and deletion
 
-Your account data and results are kept while your account exists. You can delete your account and all associated data at any time by emailing [arifmoneeb02@gmail.com](mailto:arifmoneeb02@gmail.com?subject=Delete%20my%20BandUp%20account) from the address registered to your account, or by following the steps in [BandUp account deletion](bandup_account_deletion.md). Deletion is completed within 30 days. Local settings are removed when you uninstall the app.
+Your account data and results are kept while your account exists. You can delete your account and all associated data at any time by emailing [contact@ieltsify.com](mailto:contact@ieltsify.com?subject=Delete%20my%20IELTSify%20account) from the address registered to your account, or by following the steps in [IELTSify account deletion](ieltsify_account_deletion.md). Deletion is completed within 30 days. Local settings are removed when you uninstall the app.
 
 ## 6. Children
 
-BandUp is intended for people preparing for English proficiency exams and is not directed at children under 13. We do not knowingly collect personal information from children under 13.
+IELTSify with AI is intended for people preparing for English proficiency exams and is not directed at children under 13. We do not knowingly collect personal information from children under 13.
 
 ## 7. Changes
 
@@ -49,4 +49,4 @@ We may update this policy from time to time. The effective date above shows the 
 
 ## 8. Contact
 
-Questions about privacy: [arifmoneeb02@gmail.com](mailto:arifmoneeb02@gmail.com)
+Questions about privacy: [contact@ieltsify.com](mailto:contact@ieltsify.com)
