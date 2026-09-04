@@ -1,6 +1,6 @@
 # IELTSify with AI – Privacy Policy
 
-**Effective date:** 26 August 2026
+**Effective date:** 4 September 2026
 **App:** IELTSify with AI (Android package `com.bbs.bandup`)
 **Developer contact:** contact@ieltsify.com
 
