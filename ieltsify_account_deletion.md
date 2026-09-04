@@ -5,7 +5,7 @@ You can ask us to delete your IELTSify with AI account (Android app `com.bbs.ban
 ## How to request deletion
 
 1. Send an email to [contact@ieltsify.com](mailto:contact@ieltsify.com?subject=Delete%20my%20IELTSify%20account) with the subject **"Delete my IELTSify account"**.
-2. Send it from the email address you use to sign in to IELTSify with AI (so we can verify it is you). If you used a guest account, tell us the approximate date you last used the app and we will help you identify it.
+2. Send it from the email address you use to sign in to IELTSify with AI (so we can verify it is you).
 3. We will confirm and complete the deletion within 30 days.
 
 ## What is deleted

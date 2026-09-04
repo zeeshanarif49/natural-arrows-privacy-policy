@@ -8,7 +8,7 @@ IELTSify with AI is an IELTS practice app. This policy explains what information
 
 ## 1. Information we collect
 
-- **Account information.** When you create an account we store your email address and a securely hashed password. Guest accounts are anonymous until you link an email.
+- **Account information.** When you create an account we store your email address and a securely hashed password.
 - **Practice content.** The written answers you type, the text transcripts of your spoken answers, your listening-test answers, and the AI-generated scores and feedback for each test.
 - **App settings.** Your chosen interface language, voice preferences, target band and practice streak. These are stored on your device.
 - **Coin balance and purchase state.** Your in-app coin balance and whether you have an active AI Tutor subscription. Payment details are handled entirely by Google Play; we never see your card or bank information.
