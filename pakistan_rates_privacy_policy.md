@@ -1,6 +1,6 @@
 # Pakistan Rates — Privacy Policy
 
-**Effective date:** 31 July 2026 (updated: advertising)
+**Effective date:** 6 October 2026 (updated: usage analytics)
 **Application:** Pakistan Rates (`pk.rates.app`)
 
 Pakistan Rates displays daily petrol, diesel, gold and silver rates for Pakistan
@@ -23,6 +23,7 @@ photos, files, microphone or camera data. There is no registration or login.
 | **Messaging registration token** — an anonymous, app-specific device identifier | To deliver price alerts. The app subscribes to broadcast topics (fuel / metals, in English or Urdu). It is not linked to your identity, and we cannot use it to contact you individually. | Firebase Cloud Messaging |
 | **Crash diagnostics** — stack trace, device model, OS version, app version, time of crash | Only sent if the app crashes, so faults can be fixed. Contains no personal information. | Firebase Crashlytics |
 | **IP address and request time** | Recorded in ordinary server logs when the app fetches rates over HTTPS. Used solely to operate and secure the service; not used to profile you. | Supabase (rates database) |
+| **App instance identifier**, plus app opens, screens viewed, session length, language setting, and whether a notification was opened | To understand how many people use the app and whether alerts are useful. It is not linked to your name or any account, and we cannot use it to identify you. | Firebase Analytics |
 | **Advertising ID**, plus coarse device and ad-interaction data | To display banner advertising inside the app and to measure it. You can reset or delete this identifier at any time in Android Settings → Privacy → Ads. | Google AdMob |
 
 ## 3. Information stored only on your device
@@ -43,7 +44,7 @@ This never leaves your device and is removed when you uninstall the app.
 
 ## 5. Third-party services
 
-- **Google Firebase** (Cloud Messaging, Crashlytics) — https://firebase.google.com/support/privacy
+- **Google Firebase** (Cloud Messaging, Crashlytics, Analytics) — https://firebase.google.com/support/privacy
 - **Google AdMob** (in-app advertising) — https://support.google.com/admob/answer/6128543
 - **Supabase** (rates database and API) — https://supabase.com/privacy
 
@@ -59,8 +60,10 @@ policy linked above for the detail.
 Ads appear **only inside the app**. We never place advertising in notifications
 — the alerts you receive contain rate information only.
 
-We perform no behavioural or marketing analytics of our own, and we do not
-sell or rent your personal data.
+We measure aggregate app usage (see section 2) to understand how many people
+use the app and whether the alerts are useful. We do not build advertising or
+marketing profiles of individuals, and we do not sell or rent your personal
+data.
 
 **Your controls:** reset or delete your advertising ID, or opt out of ad
 personalisation entirely, in Android Settings → Privacy → Ads.
