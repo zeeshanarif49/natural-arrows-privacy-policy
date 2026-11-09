@@ -1,14 +1,16 @@
 # FireFly Remote — Privacy Policy
 
-**Effective date:** 5 November 2026 (updated: the app is free with ads; free trial removed)
+**Effective date:** 9 November 2026 (updated: anonymous usage analytics and crash reports via Firebase, from version 1.4.1)
 **Application:** FireFly Remote – Remote for Fire TV & Firestick (`com.fireflyapps.firetvremote`)
 
 This policy explains what information the FireFly Remote Android app ("the app", "we") handles, and why.
 The app lets you control a Fire TV device on your local Wi-Fi network from your phone.
 
-**In short:** no analytics and no banner ads. The app is free and shows ads from Google AdMob: one ad when you open
+**In short:** no banner ads and no account. The app is free and shows ads from Google AdMob: one ad when you open
 the app (at most every few hours) and optional reward videos — see section 4. Buying "Remove ads" turns ads off. The app
-also sends an anonymous, one-way hashed device identifier so we can count how many devices use the app — see section 2.
+sends an anonymous, one-way hashed device identifier so we can count how many devices use the app (section 2), and
+anonymous usage statistics and crash reports through Google Firebase so we can see which features work and fix bugs
+(section 5). We never collect your name, email, TV names, IP addresses on your network, or anything you type.
 
 ---
 
@@ -59,32 +61,54 @@ See [how Google uses information from apps that use its services](https://polici
 - You can reset or delete your advertising ID in Android Settings → Privacy → Ads.
 - "Remove ads" (subscription or lifetime) turns ads off completely.
 
-## 5. Network permissions
+## 5. Usage analytics and crash reports (Google Firebase)
+
+From version 1.4.1 the app uses [Google Analytics for Firebase](https://firebase.google.com/support/privacy) and
+Firebase Crashlytics to understand how the app is used and to fix crashes. They record:
+
+- **App usage events:** for example that the app was opened, how many Fire TVs a search found, whether pairing or
+  reconnecting worked (and a short technical error type if not), which kinds of controls were used (buttons, volume,
+  touchpad, keyboard, app launcher), and whether the "Remove ads" screen was opened, a purchase was started or completed,
+  or a reward video was watched.
+- **Crash reports:** the technical state of the app when it crashes (stack trace, device model, Android version, app version).
+- **Identifiers and device data:** a random Firebase app-instance ID, and — where you have allowed it — the advertising ID;
+  device model, OS version, language, and approximate location derived from your IP address.
+
+These events **never include** TV names, IP addresses on your home network, pairing tokens, the text you type, or the
+names of apps on your TV, and they are not linked to your name, email or Google account.
+
+- In the EEA, UK and Switzerland, nothing is sent until you have answered Google's consent form, and only what you
+  allowed is used (you can change your choice anytime with **Ad choices** on the "Remove ads" screen).
+- Google processes this data as our service provider. Analytics data is kept for a limited time (by default 2 months
+  for user-level data) and crash reports for 90 days.
+
+## 6. Network permissions
 
 The app uses Wi-Fi and local network access to find and communicate with Fire TV devices on your home network
 (mDNS discovery and direct connections to your TV), and internet access to load app icons shown by your TV,
-to send the usage count, to talk to Google Play for purchases, and to load ads.
+to send the usage count, analytics and crash reports, to talk to Google Play for purchases, and to load ads.
 
-## 6. Children
+## 7. Children
 
 The app is not directed at children under 13, and we do not knowingly collect personal information from children.
 
-## 7. Data retention and deletion
+## 8. Data retention and deletion
 
 All data stored on your phone is deleted when you remove a TV in the app, clear the app's data, or uninstall the app.
 The usage record (hashed device identifier and first-seen time) is kept to count devices. You can ask us to delete
-it by emailing us (see Contact).
+it by emailing us (see Contact). Firebase analytics and crash data expire automatically as described in section 5;
+you can also ask us to delete it.
 
-## 8. Security
+## 9. Security
 
 Communication with your TV uses HTTPS on your local network, and the TV's certificate is pinned after pairing.
-The usage count is sent over HTTPS.
+The usage count, analytics and crash reports are sent over HTTPS.
 
-## 9. Changes
+## 10. Changes
 
 We may update this policy from time to time. Changes will be posted on this page with a new effective date.
 
-## 10. Contact
+## 11. Contact
 
 Questions about this policy or deletion requests: **contact@farelyt.com**
 
