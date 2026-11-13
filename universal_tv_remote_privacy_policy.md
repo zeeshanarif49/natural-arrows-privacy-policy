@@ -1,7 +1,7 @@
 # Privacy Policy — Universal TV Remote
 
 **Effective date:** 13 November 2026  
-**Application:** TV Remote Control: Universal (`com.universalremote.app`)
+**Application:** TV Remote Control: Universal (`com.farelyt.universalremote`)
 
 Universal TV Remote ("the app") turns your phone into a remote control for your TV. This policy explains what information the app handles and why.
 
